@@ -1,0 +1,4 @@
+# Always use LF in Git, but convert safely on Windows
+*.py text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
